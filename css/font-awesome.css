@@ -2316,6 +2316,9 @@
 .fa-meetup:before {
   content: "\f2e0";
 }
+.fa-steemit:before {
+  content: "\f2e1";
+}
 .sr-only {
   position: absolute;
   width: 1px;
